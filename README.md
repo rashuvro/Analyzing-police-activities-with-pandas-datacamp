@@ -1,3 +1,13 @@
-# Data_science_mini_projects
+# Analyzing police activities with pandas (datacamp data manipulation project)
 
-This reository contains my data-science mini projects including the project codes and notebooks 
+link: https://learn.datacamp.com/courses/analyzing-police-activity-with-pandas
+
+Description
+In this proejct, I explored the Stanford Open Policing Project dataset and analyze the impact of gender on police behavior. During the course, I practiced cleaning messy data, creating visualizations, combining and reshaping datasets, and manipulating time series data. 
+
+Project includes:
+
+- Preparing the data for analysis
+- Exploring the relationship between gender and policing
+- Visual exploratory data analysis
+- Analyzing the effect of weather on policing
